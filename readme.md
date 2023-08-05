@@ -2,7 +2,7 @@
 
 If you're a beginner, you might think that these two terms mean the same thing - but they're different.
 
-### what is git?
+### What is git?
 
 Git is a version control system which lets you track changes you make to your files over time. Git will create a backup of your files on command, and let you go back to every backup you create (like a time traveling machine). You can also make a complete copy of your files, make changes to that copy, and then merge these changes to the original copy.
 For example, you could be working on a website's landing page and discover that you do not like the navigation bar. But at the same time, you might not want to start altering its components because it might get worse.

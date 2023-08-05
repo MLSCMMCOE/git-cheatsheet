@@ -23,7 +23,7 @@ git init
 
 This will tell Git to get ready to start watching your files for every change that occurs. It looks like this:
 
-![initialize](init.png)
+![initialize](https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/init.png)
 
 *Ah okay so my files are tracked now? All good, right?*
 
@@ -81,7 +81,7 @@ Now, about creating that backup of your files, you need to commit the files that
 git commit -m "commit message"
 ```
 
-![commit](commit.png)
+![commit](https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/commit.png)
 When you commit your files git creates a kind of checkpoint, now git has made a backup of your files, you can freely go wild and make breaking changes to your code. In the end you can just revert to this backup or any prior committed changes you made whenever you want.
 
 There are different ways to revert to the latest committed state. You could use
@@ -101,7 +101,7 @@ To create a new branch, run this command:
 git checkout -b <branch name>
 ```
 
-![commit](branch.png)
+![commit](https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/branch.png)
 This will create a new branch, a complete copy of your code.
 It will also replace your current folder to show you contents of this branch.
 
@@ -127,7 +127,7 @@ git merge test
 
 It will merge those changes into the master branch
 
-![commit](merge.png)
+![commit](https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/merge.png)
 
 ### What is Github
 
@@ -178,7 +178,7 @@ Here you tell git that you want to push these changes to your remote that you na
 
 You can check your github repository and you will see your files there.
 
-![commit](push.png)
+![commit](https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/push.png)
 
 ### How to pull changes
 
@@ -202,7 +202,7 @@ Suppose you see someone's code you like and want to use it and see it run for yo
 
 This command downloads the remote repository into your local computer in a folder with the name of the repository.
 
-![commit](pull.png)
+![commit](https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/pull.png)
 
 <br>
 

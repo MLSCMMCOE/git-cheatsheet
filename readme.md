@@ -1,3 +1,4 @@
+<div style="text-align:center"><img src="https://github.com/MLSCMMCOE/git-cheatsheet/blob/main/without_background.png" height="600" width="600" /></div>
 ## 10. Git and Github
 
 If you're a beginner, you might think that these two terms mean the same thing - but they're different.
